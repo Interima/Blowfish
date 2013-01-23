@@ -1,0 +1,17 @@
+=======================================
+Installation guide
+=======================================
+
+  1. Go to Tea/build directory
+	  [ cd Tea/build ] (Linux)
+
+  2. Run cmake with CMakeLists.txt
+	  [ cmake CMakeLists.txt ] (Linux)
+
+  3. Go to Tea/lib
+	  [ cd ../lib ] (Linux)
+
+  4. Copy lib folder file to Mena'an plugins directory
+	  [ cp ./* <Mena'an/plugins> ] (Linux)
+
+  5. Restart Mena'an 
