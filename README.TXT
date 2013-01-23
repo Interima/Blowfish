@@ -1,9 +1,9 @@
 =======================================
-Tea plugin for Mena'an project.
+Blowfish plugin for Mena'an project.
 =======================================
 
 Description:
-  Implement Tea cryptographic algoritm. 
+  Implement Blowfish cryptographic algoritm. 
   Used as shared library for Mena'an.
 
 Platform:

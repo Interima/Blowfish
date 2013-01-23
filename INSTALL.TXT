@@ -2,16 +2,16 @@
 Installation guide
 =======================================
 
-  1. Go to Tea/build directory
-	  [ cd Tea/build ] (Linux)
+  1. Go to Blowfish/build directory
+	  [ cd Blowfish/build ] (Linux)
 
   2. Run cmake with CMakeLists.txt
 	  [ cmake CMakeLists.txt ] (Linux)
 
-  3. Go to Tea/lib
+  3. Go to Blowfish/lib
 	  [ cd ../lib ] (Linux)
 
-  4. Copy lib folder file to Mena'an plugins directory
+  4. Copy lib folder's file to Mena'an plugins directory
 	  [ cp ./* <Mena'an/plugins> ] (Linux)
 
   5. Restart Mena'an 
