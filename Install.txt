@@ -8,10 +8,13 @@ Installation guide
   2. Run cmake with CMakeLists.txt
 	  [ cmake CMakeLists.txt ] (Linux)
 
-  3. Go to Blowfish/lib
+  3. Run make
+	  [ make ] (Linux)
+
+  4. Go to Blowfish/lib
 	  [ cd ../lib ] (Linux)
 
-  4. Copy lib folder's file to Mena'an plugins directory
+  5. Copy lib folder's file to Mena'an plugins directory
 	  [ cp ./* <Mena'an/plugins> ] (Linux)
 
-  5. Restart Mena'an 
+  6. Restart Mena'an 

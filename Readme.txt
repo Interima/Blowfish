@@ -17,4 +17,4 @@ Requirements:
   Qt 5.0.0 or later
 
 Installation:
-  Read INSTALL.TXT to installation.
+  Read Install.txt to installation.
